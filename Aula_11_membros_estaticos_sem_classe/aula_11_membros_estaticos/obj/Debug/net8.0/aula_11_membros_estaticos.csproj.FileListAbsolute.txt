@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\obj\Debug\net8.0\aula_11_membros_estaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\obj\Debug\net8.0\aula_11_membros_estaticos.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\obj\Debug\net8.0\aula_11_membros_estaticos.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\obj\Debug\net8.0\aula_11_membros_estaticos.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\bin\Debug\net8.0\aula_11_membros_estaticos.exe
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\bin\Debug\net8.0\aula_11_membros_estaticos.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\bin\Debug\net8.0\aula_11_membros_estaticos.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\bin\Debug\net8.0\aula_11_membros_estaticos.dll
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\bin\Debug\net8.0\aula_11_membros_estaticos.pdb
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\obj\Debug\net8.0\aula_11_membros_estaticos.dll
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\obj\Debug\net8.0\refint\aula_11_membros_estaticos.dll
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\obj\Debug\net8.0\aula_11_membros_estaticos.pdb
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\obj\Debug\net8.0\aula_11_membros_estaticos.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\aula_11_membros_estaticos\aula_11_membros_estaticos\obj\Debug\net8.0\ref\aula_11_membros_estaticos.dll

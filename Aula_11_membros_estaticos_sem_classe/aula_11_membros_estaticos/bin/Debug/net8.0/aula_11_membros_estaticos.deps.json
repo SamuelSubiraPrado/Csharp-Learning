@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aula_11_membros_estaticos/1.0.0": {
+        "runtime": {
+          "aula_11_membros_estaticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula_11_membros_estaticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

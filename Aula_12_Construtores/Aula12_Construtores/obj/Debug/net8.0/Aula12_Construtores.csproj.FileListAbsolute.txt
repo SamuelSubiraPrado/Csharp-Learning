@@ -1,0 +1,4 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula12_Construtores\Aula12_Construtores\obj\Debug\net8.0\Aula12_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula12_Construtores\Aula12_Construtores\obj\Debug\net8.0\Aula12_Construtores.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula12_Construtores\Aula12_Construtores\obj\Debug\net8.0\Aula12_Construtores.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula12_Construtores\Aula12_Construtores\obj\Debug\net8.0\Aula12_Construtores.csproj.CoreCompileInputs.cache
