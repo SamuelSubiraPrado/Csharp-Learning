@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\bin\Debug\net8.0\Aula_59_usando_dll_nativa.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\bin\Debug\net8.0\Aula_59_usando_dll_nativa.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\bin\Debug\net8.0\Aula_59_usando_dll_nativa.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\bin\Debug\net8.0\Aula_59_usando_dll_nativa.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\bin\Debug\net8.0\Aula_59_usando_dll_nativa.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\obj\Debug\net8.0\Aula_59_usando_dll_nativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\obj\Debug\net8.0\Aula_59_usando_dll_nativa.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\obj\Debug\net8.0\Aula_59_usando_dll_nativa.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\obj\Debug\net8.0\Aula_59_usando_dll_nativa.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\obj\Debug\net8.0\Aula_59_usando_dll_nativa.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\obj\Debug\net8.0\refint\Aula_59_usando_dll_nativa.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\obj\Debug\net8.0\Aula_59_usando_dll_nativa.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\obj\Debug\net8.0\Aula_59_usando_dll_nativa.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_59_usando_dll_nativa\Aula_59_usando_dll_nativa\obj\Debug\net8.0\ref\Aula_59_usando_dll_nativa.dll

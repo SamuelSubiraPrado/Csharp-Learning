@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_58_carregando_dll_dinamicamente", "Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente.csproj", "{9C62F3C9-9D9F-40EE-BD8F-4BBDAF68DE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C62F3C9-9D9F-40EE-BD8F-4BBDAF68DE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C62F3C9-9D9F-40EE-BD8F-4BBDAF68DE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C62F3C9-9D9F-40EE-BD8F-4BBDAF68DE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C62F3C9-9D9F-40EE-BD8F-4BBDAF68DE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9A6652F-4485-4EC2-AE0E-DABFE4AA12CE}
+	EndGlobalSection
+EndGlobal

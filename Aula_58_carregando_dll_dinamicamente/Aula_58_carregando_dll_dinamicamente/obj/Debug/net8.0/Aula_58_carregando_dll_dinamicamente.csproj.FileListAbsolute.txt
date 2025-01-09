@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\bin\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\bin\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\bin\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\bin\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\bin\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\obj\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\obj\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\obj\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\obj\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\obj\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\obj\Debug\net8.0\refint\Aula_58_carregando_dll_dinamicamente.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\obj\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\obj\Debug\net8.0\Aula_58_carregando_dll_dinamicamente.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_58_carregando_dll_dinamicamente\Aula_58_carregando_dll_dinamicamente\obj\Debug\net8.0\ref\Aula_58_carregando_dll_dinamicamente.dll

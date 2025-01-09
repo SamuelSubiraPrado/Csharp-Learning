@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula_59_usando_dll_nativa/1.0.0": {
+        "runtime": {
+          "Aula_59_usando_dll_nativa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_59_usando_dll_nativa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
