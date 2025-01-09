@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\bin\Debug\net8.0\Aula_52_manipulando_arquivos.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\bin\Debug\net8.0\Aula_52_manipulando_arquivos.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\bin\Debug\net8.0\Aula_52_manipulando_arquivos.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\bin\Debug\net8.0\Aula_52_manipulando_arquivos.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\bin\Debug\net8.0\Aula_52_manipulando_arquivos.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\obj\Debug\net8.0\Aula_52_manipulando_arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\obj\Debug\net8.0\Aula_52_manipulando_arquivos.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\obj\Debug\net8.0\Aula_52_manipulando_arquivos.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\obj\Debug\net8.0\Aula_52_manipulando_arquivos.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\obj\Debug\net8.0\Aula_52_manipulando_arquivos.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\obj\Debug\net8.0\refint\Aula_52_manipulando_arquivos.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\obj\Debug\net8.0\Aula_52_manipulando_arquivos.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\obj\Debug\net8.0\Aula_52_manipulando_arquivos.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_52_manipulando_arquivos\Aula_52_manipulando_arquivos\obj\Debug\net8.0\ref\Aula_52_manipulando_arquivos.dll

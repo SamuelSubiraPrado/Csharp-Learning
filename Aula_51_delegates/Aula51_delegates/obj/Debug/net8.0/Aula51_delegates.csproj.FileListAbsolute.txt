@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\bin\Debug\net8.0\Aula51_delegates.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\bin\Debug\net8.0\Aula51_delegates.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\bin\Debug\net8.0\Aula51_delegates.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\bin\Debug\net8.0\Aula51_delegates.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\bin\Debug\net8.0\Aula51_delegates.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\obj\Debug\net8.0\Aula51_delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\obj\Debug\net8.0\Aula51_delegates.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\obj\Debug\net8.0\Aula51_delegates.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\obj\Debug\net8.0\Aula51_delegates.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\obj\Debug\net8.0\Aula51_delegates.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\obj\Debug\net8.0\refint\Aula51_delegates.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\obj\Debug\net8.0\Aula51_delegates.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\obj\Debug\net8.0\Aula51_delegates.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula51_delegates\Aula51_delegates\obj\Debug\net8.0\ref\Aula51_delegates.dll

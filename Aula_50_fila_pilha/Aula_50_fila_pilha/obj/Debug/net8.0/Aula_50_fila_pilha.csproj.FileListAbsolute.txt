@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\bin\Debug\net8.0\Aula_50_fila_pilha.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\bin\Debug\net8.0\Aula_50_fila_pilha.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\bin\Debug\net8.0\Aula_50_fila_pilha.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\bin\Debug\net8.0\Aula_50_fila_pilha.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\bin\Debug\net8.0\Aula_50_fila_pilha.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\obj\Debug\net8.0\Aula_50_fila_pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\obj\Debug\net8.0\Aula_50_fila_pilha.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\obj\Debug\net8.0\Aula_50_fila_pilha.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\obj\Debug\net8.0\Aula_50_fila_pilha.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\obj\Debug\net8.0\Aula_50_fila_pilha.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\obj\Debug\net8.0\refint\Aula_50_fila_pilha.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\obj\Debug\net8.0\Aula_50_fila_pilha.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\obj\Debug\net8.0\Aula_50_fila_pilha.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_50_fila_pilha\Aula_50_fila_pilha\obj\Debug\net8.0\ref\Aula_50_fila_pilha.dll
