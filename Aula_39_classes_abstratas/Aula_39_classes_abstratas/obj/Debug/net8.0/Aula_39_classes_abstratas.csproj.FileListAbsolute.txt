@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\obj\Debug\net8.0\Aula_39_classes_abstratas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\obj\Debug\net8.0\Aula_39_classes_abstratas.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\obj\Debug\net8.0\Aula_39_classes_abstratas.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\obj\Debug\net8.0\Aula_39_classes_abstratas.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\bin\Debug\net8.0\Aula_39_classes_abstratas.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\bin\Debug\net8.0\Aula_39_classes_abstratas.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\bin\Debug\net8.0\Aula_39_classes_abstratas.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\bin\Debug\net8.0\Aula_39_classes_abstratas.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\bin\Debug\net8.0\Aula_39_classes_abstratas.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\obj\Debug\net8.0\Aula_39_classes_abstratas.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\obj\Debug\net8.0\refint\Aula_39_classes_abstratas.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\obj\Debug\net8.0\Aula_39_classes_abstratas.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\obj\Debug\net8.0\Aula_39_classes_abstratas.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_39_classes_abstratas\Aula_39_classes_abstratas\obj\Debug\net8.0\ref\Aula_39_classes_abstratas.dll

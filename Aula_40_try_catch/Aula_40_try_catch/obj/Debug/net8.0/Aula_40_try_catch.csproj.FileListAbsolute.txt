@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\bin\Debug\net8.0\Aula_40_try_catch.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\bin\Debug\net8.0\Aula_40_try_catch.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\bin\Debug\net8.0\Aula_40_try_catch.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\bin\Debug\net8.0\Aula_40_try_catch.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\bin\Debug\net8.0\Aula_40_try_catch.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\obj\Debug\net8.0\Aula_40_try_catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\obj\Debug\net8.0\Aula_40_try_catch.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\obj\Debug\net8.0\Aula_40_try_catch.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\obj\Debug\net8.0\Aula_40_try_catch.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\obj\Debug\net8.0\Aula_40_try_catch.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\obj\Debug\net8.0\refint\Aula_40_try_catch.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\obj\Debug\net8.0\Aula_40_try_catch.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\obj\Debug\net8.0\Aula_40_try_catch.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_40_try_catch\Aula_40_try_catch\obj\Debug\net8.0\ref\Aula_40_try_catch.dll

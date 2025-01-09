@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\bin\Debug\net8.0\Aula_42_file_fileInfo_ioException.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\bin\Debug\net8.0\Aula_42_file_fileInfo_ioException.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\bin\Debug\net8.0\Aula_42_file_fileInfo_ioException.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\bin\Debug\net8.0\Aula_42_file_fileInfo_ioException.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\bin\Debug\net8.0\Aula_42_file_fileInfo_ioException.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\obj\Debug\net8.0\Aula_42_file_fileInfo_ioException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\obj\Debug\net8.0\Aula_42_file_fileInfo_ioException.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\obj\Debug\net8.0\Aula_42_file_fileInfo_ioException.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\obj\Debug\net8.0\Aula_42_file_fileInfo_ioException.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\obj\Debug\net8.0\Aula_42_file_fileInfo_ioException.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\obj\Debug\net8.0\refint\Aula_42_file_fileInfo_ioException.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\obj\Debug\net8.0\Aula_42_file_fileInfo_ioException.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\obj\Debug\net8.0\Aula_42_file_fileInfo_ioException.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_42_file_fileInfo_ioException\Aula_42_file_fileInfo_ioException\obj\Debug\net8.0\ref\Aula_42_file_fileInfo_ioException.dll
