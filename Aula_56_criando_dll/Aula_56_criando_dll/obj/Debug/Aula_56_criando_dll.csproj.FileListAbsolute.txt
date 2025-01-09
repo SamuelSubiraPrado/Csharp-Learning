@@ -1,0 +1,6 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_56_criando_dll\Aula_56_criando_dll\bin\Debug\Aula_56_criando_dll.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_56_criando_dll\Aula_56_criando_dll\bin\Debug\Aula_56_criando_dll.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_56_criando_dll\Aula_56_criando_dll\obj\Debug\Aula_56_criando_dll.csproj.AssemblyReference.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_56_criando_dll\Aula_56_criando_dll\obj\Debug\Aula_56_criando_dll.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_56_criando_dll\Aula_56_criando_dll\obj\Debug\Aula_56_criando_dll.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_56_criando_dll\Aula_56_criando_dll\obj\Debug\Aula_56_criando_dll.pdb

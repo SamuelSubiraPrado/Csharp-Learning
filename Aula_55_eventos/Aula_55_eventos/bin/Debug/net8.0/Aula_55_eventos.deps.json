@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula_55_eventos/1.0.0": {
+        "runtime": {
+          "Aula_55_eventos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_55_eventos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

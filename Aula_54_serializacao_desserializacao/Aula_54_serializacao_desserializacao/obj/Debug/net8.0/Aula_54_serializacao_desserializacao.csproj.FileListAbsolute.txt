@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\bin\Debug\net8.0\Aula_54_serializacao_desserializacao.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\bin\Debug\net8.0\Aula_54_serializacao_desserializacao.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\bin\Debug\net8.0\Aula_54_serializacao_desserializacao.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\bin\Debug\net8.0\Aula_54_serializacao_desserializacao.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\bin\Debug\net8.0\Aula_54_serializacao_desserializacao.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\obj\Debug\net8.0\Aula_54_serializacao_desserializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\obj\Debug\net8.0\Aula_54_serializacao_desserializacao.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\obj\Debug\net8.0\Aula_54_serializacao_desserializacao.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\obj\Debug\net8.0\Aula_54_serializacao_desserializacao.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\obj\Debug\net8.0\Aula_54_serializacao_desserializacao.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\obj\Debug\net8.0\refint\Aula_54_serializacao_desserializacao.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\obj\Debug\net8.0\Aula_54_serializacao_desserializacao.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\obj\Debug\net8.0\Aula_54_serializacao_desserializacao.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_54_serializacao_desserializacao\Aula_54_serializacao_desserializacao\obj\Debug\net8.0\ref\Aula_54_serializacao_desserializacao.dll

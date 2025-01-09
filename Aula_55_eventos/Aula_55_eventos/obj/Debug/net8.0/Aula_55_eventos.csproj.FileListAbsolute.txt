@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\obj\Debug\net8.0\Aula_55_eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\obj\Debug\net8.0\Aula_55_eventos.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\obj\Debug\net8.0\Aula_55_eventos.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\obj\Debug\net8.0\Aula_55_eventos.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\bin\Debug\net8.0\Aula_55_eventos.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\bin\Debug\net8.0\Aula_55_eventos.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\bin\Debug\net8.0\Aula_55_eventos.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\bin\Debug\net8.0\Aula_55_eventos.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\bin\Debug\net8.0\Aula_55_eventos.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\obj\Debug\net8.0\Aula_55_eventos.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\obj\Debug\net8.0\refint\Aula_55_eventos.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\obj\Debug\net8.0\Aula_55_eventos.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\obj\Debug\net8.0\Aula_55_eventos.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_55_eventos\Aula_55_eventos\obj\Debug\net8.0\ref\Aula_55_eventos.dll
