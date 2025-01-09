@@ -1,0 +1,28 @@
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\bin\Debug\net6.0\Aula_9_exemplo_com_poo.exe
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\bin\Debug\net6.0\Aula_9_exemplo_com_poo.deps.json
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\bin\Debug\net6.0\Aula_9_exemplo_com_poo.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\bin\Debug\net6.0\Aula_9_exemplo_com_poo.dll
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\bin\Debug\net6.0\Aula_9_exemplo_com_poo.pdb
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.dll
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\refint\Aula_9_exemplo_com_poo.dll
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.pdb
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\ref\Aula_9_exemplo_com_poo.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\bin\Debug\net6.0\Aula_9_exemplo_com_poo.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\bin\Debug\net6.0\Aula_9_exemplo_com_poo.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\bin\Debug\net6.0\Aula_9_exemplo_com_poo.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\bin\Debug\net6.0\Aula_9_exemplo_com_poo.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\bin\Debug\net6.0\Aula_9_exemplo_com_poo.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\refint\Aula_9_exemplo_com_poo.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\Aula_9_exemplo_com_poo.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_9_exemplo_com_poo\Aula_9_exemplo_com_poo\obj\Debug\net6.0\ref\Aula_9_exemplo_com_poo.dll

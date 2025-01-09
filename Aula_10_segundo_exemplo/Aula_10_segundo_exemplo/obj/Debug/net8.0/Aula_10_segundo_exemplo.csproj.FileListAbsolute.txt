@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\bin\Debug\net8.0\Aula_10_segundo_exemplo.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\bin\Debug\net8.0\Aula_10_segundo_exemplo.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\bin\Debug\net8.0\Aula_10_segundo_exemplo.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\bin\Debug\net8.0\Aula_10_segundo_exemplo.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\bin\Debug\net8.0\Aula_10_segundo_exemplo.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\obj\Debug\net8.0\Aula_10_segundo_exemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\obj\Debug\net8.0\Aula_10_segundo_exemplo.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\obj\Debug\net8.0\Aula_10_segundo_exemplo.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\obj\Debug\net8.0\Aula_10_segundo_exemplo.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\obj\Debug\net8.0\Aula_10_segundo_exemplo.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\obj\Debug\net8.0\refint\Aula_10_segundo_exemplo.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\obj\Debug\net8.0\Aula_10_segundo_exemplo.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\obj\Debug\net8.0\Aula_10_segundo_exemplo.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_10_segundo_exemplo\Aula_10_segundo_exemplo\obj\Debug\net8.0\ref\Aula_10_segundo_exemplo.dll
