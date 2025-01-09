@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula_25_expressao_cond_ternaria/1.0.0": {
+        "runtime": {
+          "Aula_25_expressao_cond_ternaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_25_expressao_cond_ternaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\bin\Debug\net8.0\Aula_23_matrizes_ex_resolvido.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\bin\Debug\net8.0\Aula_23_matrizes_ex_resolvido.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\bin\Debug\net8.0\Aula_23_matrizes_ex_resolvido.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\bin\Debug\net8.0\Aula_23_matrizes_ex_resolvido.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\bin\Debug\net8.0\Aula_23_matrizes_ex_resolvido.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\obj\Debug\net8.0\Aula_23_matrizes_ex_resolvido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\obj\Debug\net8.0\Aula_23_matrizes_ex_resolvido.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\obj\Debug\net8.0\Aula_23_matrizes_ex_resolvido.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\obj\Debug\net8.0\Aula_23_matrizes_ex_resolvido.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\obj\Debug\net8.0\Aula_23_matrizes_ex_resolvido.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\obj\Debug\net8.0\refint\Aula_23_matrizes_ex_resolvido.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\obj\Debug\net8.0\Aula_23_matrizes_ex_resolvido.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\obj\Debug\net8.0\Aula_23_matrizes_ex_resolvido.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_23_matrizes_ex_resolvido\Aula_23_matrizes_ex_resolvido\obj\Debug\net8.0\ref\Aula_23_matrizes_ex_resolvido.dll

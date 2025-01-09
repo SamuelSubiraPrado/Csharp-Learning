@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\bin\Debug\net8.0\Aula_25_expressao_cond_ternaria.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\bin\Debug\net8.0\Aula_25_expressao_cond_ternaria.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\bin\Debug\net8.0\Aula_25_expressao_cond_ternaria.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\bin\Debug\net8.0\Aula_25_expressao_cond_ternaria.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\bin\Debug\net8.0\Aula_25_expressao_cond_ternaria.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\obj\Debug\net8.0\Aula_25_expressao_cond_ternaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\obj\Debug\net8.0\Aula_25_expressao_cond_ternaria.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\obj\Debug\net8.0\Aula_25_expressao_cond_ternaria.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\obj\Debug\net8.0\Aula_25_expressao_cond_ternaria.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\obj\Debug\net8.0\Aula_25_expressao_cond_ternaria.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\obj\Debug\net8.0\refint\Aula_25_expressao_cond_ternaria.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\obj\Debug\net8.0\Aula_25_expressao_cond_ternaria.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\obj\Debug\net8.0\Aula_25_expressao_cond_ternaria.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_25_expressao_cond_ternaria\Aula_25_expressao_cond_ternaria\obj\Debug\net8.0\ref\Aula_25_expressao_cond_ternaria.dll

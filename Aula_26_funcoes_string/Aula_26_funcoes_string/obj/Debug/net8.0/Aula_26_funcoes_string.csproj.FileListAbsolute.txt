@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\bin\Debug\net8.0\Aula_26_funcoes_string.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\bin\Debug\net8.0\Aula_26_funcoes_string.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\bin\Debug\net8.0\Aula_26_funcoes_string.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\bin\Debug\net8.0\Aula_26_funcoes_string.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\bin\Debug\net8.0\Aula_26_funcoes_string.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\obj\Debug\net8.0\Aula_26_funcoes_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\obj\Debug\net8.0\Aula_26_funcoes_string.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\obj\Debug\net8.0\Aula_26_funcoes_string.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\obj\Debug\net8.0\Aula_26_funcoes_string.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\obj\Debug\net8.0\Aula_26_funcoes_string.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\obj\Debug\net8.0\refint\Aula_26_funcoes_string.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\obj\Debug\net8.0\Aula_26_funcoes_string.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\obj\Debug\net8.0\Aula_26_funcoes_string.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_26_funcoes_string\Aula_26_funcoes_string\obj\Debug\net8.0\ref\Aula_26_funcoes_string.dll

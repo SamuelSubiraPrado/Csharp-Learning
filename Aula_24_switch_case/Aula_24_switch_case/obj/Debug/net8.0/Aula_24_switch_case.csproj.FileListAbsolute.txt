@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\bin\Debug\net8.0\Aula_24_switch_case.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\bin\Debug\net8.0\Aula_24_switch_case.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\bin\Debug\net8.0\Aula_24_switch_case.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\bin\Debug\net8.0\Aula_24_switch_case.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\bin\Debug\net8.0\Aula_24_switch_case.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\obj\Debug\net8.0\Aula_24_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\obj\Debug\net8.0\Aula_24_switch_case.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\obj\Debug\net8.0\Aula_24_switch_case.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\obj\Debug\net8.0\Aula_24_switch_case.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\obj\Debug\net8.0\Aula_24_switch_case.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\obj\Debug\net8.0\refint\Aula_24_switch_case.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\obj\Debug\net8.0\Aula_24_switch_case.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\obj\Debug\net8.0\Aula_24_switch_case.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_24_switch_case\Aula_24_switch_case\obj\Debug\net8.0\ref\Aula_24_switch_case.dll
