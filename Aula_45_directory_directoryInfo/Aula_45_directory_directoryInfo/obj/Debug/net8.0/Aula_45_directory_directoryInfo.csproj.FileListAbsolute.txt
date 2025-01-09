@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\bin\Debug\net8.0\Aula_45_directory_directoryInfo.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\bin\Debug\net8.0\Aula_45_directory_directoryInfo.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\bin\Debug\net8.0\Aula_45_directory_directoryInfo.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\bin\Debug\net8.0\Aula_45_directory_directoryInfo.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\bin\Debug\net8.0\Aula_45_directory_directoryInfo.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\obj\Debug\net8.0\Aula_45_directory_directoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\obj\Debug\net8.0\Aula_45_directory_directoryInfo.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\obj\Debug\net8.0\Aula_45_directory_directoryInfo.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\obj\Debug\net8.0\Aula_45_directory_directoryInfo.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\obj\Debug\net8.0\Aula_45_directory_directoryInfo.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\obj\Debug\net8.0\refint\Aula_45_directory_directoryInfo.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\obj\Debug\net8.0\Aula_45_directory_directoryInfo.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\obj\Debug\net8.0\Aula_45_directory_directoryInfo.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_45_directory_directoryInfo\Aula_45_directory_directoryInfo\obj\Debug\net8.0\ref\Aula_45_directory_directoryInfo.dll

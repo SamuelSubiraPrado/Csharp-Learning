@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\obj\Debug\net8.0\Aula43_FileStream_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\obj\Debug\net8.0\Aula43_FileStream_StreamReader.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\obj\Debug\net8.0\Aula43_FileStream_StreamReader.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\obj\Debug\net8.0\Aula43_FileStream_StreamReader.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\bin\Debug\net8.0\Aula43_FileStream_StreamReader.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\bin\Debug\net8.0\Aula43_FileStream_StreamReader.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\bin\Debug\net8.0\Aula43_FileStream_StreamReader.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\bin\Debug\net8.0\Aula43_FileStream_StreamReader.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\bin\Debug\net8.0\Aula43_FileStream_StreamReader.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\obj\Debug\net8.0\Aula43_FileStream_StreamReader.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\obj\Debug\net8.0\refint\Aula43_FileStream_StreamReader.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\obj\Debug\net8.0\Aula43_FileStream_StreamReader.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\obj\Debug\net8.0\Aula43_FileStream_StreamReader.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula43_FileStream_StreamReader\Aula43_FileStream_StreamReader\obj\Debug\net8.0\ref\Aula43_FileStream_StreamReader.dll

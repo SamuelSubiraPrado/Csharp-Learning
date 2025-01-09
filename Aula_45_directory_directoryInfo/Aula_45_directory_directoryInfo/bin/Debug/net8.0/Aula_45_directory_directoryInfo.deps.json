@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula_45_directory_directoryInfo/1.0.0": {
+        "runtime": {
+          "Aula_45_directory_directoryInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_45_directory_directoryInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

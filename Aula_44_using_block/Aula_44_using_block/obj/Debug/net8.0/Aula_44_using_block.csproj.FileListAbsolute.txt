@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\bin\Debug\net8.0\Aula_44_using_block.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\bin\Debug\net8.0\Aula_44_using_block.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\bin\Debug\net8.0\Aula_44_using_block.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\bin\Debug\net8.0\Aula_44_using_block.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\bin\Debug\net8.0\Aula_44_using_block.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\obj\Debug\net8.0\Aula_44_using_block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\obj\Debug\net8.0\Aula_44_using_block.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\obj\Debug\net8.0\Aula_44_using_block.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\obj\Debug\net8.0\Aula_44_using_block.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\obj\Debug\net8.0\Aula_44_using_block.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\obj\Debug\net8.0\refint\Aula_44_using_block.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\obj\Debug\net8.0\Aula_44_using_block.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\obj\Debug\net8.0\Aula_44_using_block.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_44_using_block\Aula_44_using_block\obj\Debug\net8.0\ref\Aula_44_using_block.dll
