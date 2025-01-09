@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\bin\Debug\net6.0\Aula_4_condicionais.exe
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\bin\Debug\net6.0\Aula_4_condicionais.deps.json
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\bin\Debug\net6.0\Aula_4_condicionais.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\bin\Debug\net6.0\Aula_4_condicionais.dll
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\bin\Debug\net6.0\Aula_4_condicionais.pdb
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\obj\Debug\net6.0\Aula_4_condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\obj\Debug\net6.0\Aula_4_condicionais.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\obj\Debug\net6.0\Aula_4_condicionais.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\obj\Debug\net6.0\Aula_4_condicionais.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\obj\Debug\net6.0\Aula_4_condicionais.dll
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\obj\Debug\net6.0\refint\Aula_4_condicionais.dll
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\obj\Debug\net6.0\Aula_4_condicionais.pdb
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\obj\Debug\net6.0\Aula_4_condicionais.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Aula_4_condicionais\Aula_4_condicionais\obj\Debug\net6.0\ref\Aula_4_condicionais.dll

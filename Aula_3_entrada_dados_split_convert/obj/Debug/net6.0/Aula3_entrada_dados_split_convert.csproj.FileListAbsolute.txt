@@ -1,0 +1,18 @@
+C:\Users\PC\source\repos\Aula3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Aula3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Aula3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.AssemblyInfo.cs
+C:\Users\PC\source\repos\Aula3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\bin\Debug\net6.0\Aula3_entrada_dados_split_convert.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\bin\Debug\net6.0\Aula3_entrada_dados_split_convert.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\bin\Debug\net6.0\Aula3_entrada_dados_split_convert.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\bin\Debug\net6.0\Aula3_entrada_dados_split_convert.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\bin\Debug\net6.0\Aula3_entrada_dados_split_convert.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\refint\Aula3_entrada_dados_split_convert.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\Aula3_entrada_dados_split_convert.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_3_entrada_dados_split_convert\Aula3_entrada_dados_split_convert\obj\Debug\net6.0\ref\Aula3_entrada_dados_split_convert.dll
