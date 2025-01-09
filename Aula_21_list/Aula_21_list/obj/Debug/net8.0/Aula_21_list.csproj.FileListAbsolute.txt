@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\bin\Debug\net8.0\Aula_21_list.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\bin\Debug\net8.0\Aula_21_list.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\bin\Debug\net8.0\Aula_21_list.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\bin\Debug\net8.0\Aula_21_list.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\bin\Debug\net8.0\Aula_21_list.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\obj\Debug\net8.0\Aula_21_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\obj\Debug\net8.0\Aula_21_list.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\obj\Debug\net8.0\Aula_21_list.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\obj\Debug\net8.0\Aula_21_list.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\obj\Debug\net8.0\Aula_21_list.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\obj\Debug\net8.0\refint\Aula_21_list.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\obj\Debug\net8.0\Aula_21_list.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\obj\Debug\net8.0\Aula_21_list.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_21_list\Aula_21_list\obj\Debug\net8.0\ref\Aula_21_list.dll

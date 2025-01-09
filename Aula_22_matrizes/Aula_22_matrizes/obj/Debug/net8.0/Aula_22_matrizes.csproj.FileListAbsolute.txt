@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\bin\Debug\net8.0\Aula_22_matrizes.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\bin\Debug\net8.0\Aula_22_matrizes.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\bin\Debug\net8.0\Aula_22_matrizes.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\bin\Debug\net8.0\Aula_22_matrizes.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\bin\Debug\net8.0\Aula_22_matrizes.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\obj\Debug\net8.0\Aula_22_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\obj\Debug\net8.0\Aula_22_matrizes.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\obj\Debug\net8.0\Aula_22_matrizes.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\obj\Debug\net8.0\Aula_22_matrizes.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\obj\Debug\net8.0\Aula_22_matrizes.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\obj\Debug\net8.0\refint\Aula_22_matrizes.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\obj\Debug\net8.0\Aula_22_matrizes.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\obj\Debug\net8.0\Aula_22_matrizes.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_22_matrizes\Aula_22_matrizes\obj\Debug\net8.0\ref\Aula_22_matrizes.dll

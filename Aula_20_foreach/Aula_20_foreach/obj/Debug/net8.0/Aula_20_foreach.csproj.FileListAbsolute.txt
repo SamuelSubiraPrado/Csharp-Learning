@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\bin\Debug\net8.0\Aula_20_foreach.exe
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\bin\Debug\net8.0\Aula_20_foreach.deps.json
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\bin\Debug\net8.0\Aula_20_foreach.runtimeconfig.json
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\bin\Debug\net8.0\Aula_20_foreach.dll
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\bin\Debug\net8.0\Aula_20_foreach.pdb
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\obj\Debug\net8.0\Aula_20_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\obj\Debug\net8.0\Aula_20_foreach.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\obj\Debug\net8.0\Aula_20_foreach.AssemblyInfo.cs
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\obj\Debug\net8.0\Aula_20_foreach.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\obj\Debug\net8.0\Aula_20_foreach.dll
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\obj\Debug\net8.0\refint\Aula_20_foreach.dll
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\obj\Debug\net8.0\Aula_20_foreach.pdb
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\obj\Debug\net8.0\Aula_20_foreach.genruntimeconfig.cache
+C:\Users\PC\source\repos\Aula_20_foreach\Aula_20_foreach\obj\Debug\net8.0\ref\Aula_20_foreach.dll

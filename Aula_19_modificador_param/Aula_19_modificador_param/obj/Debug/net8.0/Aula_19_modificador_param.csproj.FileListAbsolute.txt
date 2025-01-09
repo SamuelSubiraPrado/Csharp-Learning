@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\obj\Debug\net8.0\Aula_19_modificador_param.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\obj\Debug\net8.0\Aula_19_modificador_param.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\obj\Debug\net8.0\Aula_19_modificador_param.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\obj\Debug\net8.0\Aula_19_modificador_param.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\bin\Debug\net8.0\Aula_19_modificador_param.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\bin\Debug\net8.0\Aula_19_modificador_param.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\bin\Debug\net8.0\Aula_19_modificador_param.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\bin\Debug\net8.0\Aula_19_modificador_param.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\bin\Debug\net8.0\Aula_19_modificador_param.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\obj\Debug\net8.0\Aula_19_modificador_param.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\obj\Debug\net8.0\refint\Aula_19_modificador_param.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\obj\Debug\net8.0\Aula_19_modificador_param.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\obj\Debug\net8.0\Aula_19_modificador_param.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_19_modificador_param\Aula_19_modificador_param\obj\Debug\net8.0\ref\Aula_19_modificador_param.dll
