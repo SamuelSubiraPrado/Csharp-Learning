@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\bin\Debug\net8.0\Aula_46_solucao_interface.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\bin\Debug\net8.0\Aula_46_solucao_interface.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\bin\Debug\net8.0\Aula_46_solucao_interface.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\bin\Debug\net8.0\Aula_46_solucao_interface.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\bin\Debug\net8.0\Aula_46_solucao_interface.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\obj\Debug\net8.0\Aula_46_solucao_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\obj\Debug\net8.0\Aula_46_solucao_interface.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\obj\Debug\net8.0\Aula_46_solucao_interface.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\obj\Debug\net8.0\Aula_46_solucao_interface.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\obj\Debug\net8.0\Aula_46_solucao_interface.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\obj\Debug\net8.0\refint\Aula_46_solucao_interface.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\obj\Debug\net8.0\Aula_46_solucao_interface.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\obj\Debug\net8.0\Aula_46_solucao_interface.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_solucao_interface\Aula_46_solucao_interface\obj\Debug\net8.0\ref\Aula_46_solucao_interface.dll

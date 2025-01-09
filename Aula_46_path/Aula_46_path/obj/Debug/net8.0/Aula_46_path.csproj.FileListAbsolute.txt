@@ -1,0 +1,14 @@
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\bin\Debug\net8.0\Aula_46_path.exe
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\bin\Debug\net8.0\Aula_46_path.deps.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\bin\Debug\net8.0\Aula_46_path.runtimeconfig.json
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\bin\Debug\net8.0\Aula_46_path.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\bin\Debug\net8.0\Aula_46_path.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\obj\Debug\net8.0\Aula_46_path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\obj\Debug\net8.0\Aula_46_path.AssemblyInfoInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\obj\Debug\net8.0\Aula_46_path.AssemblyInfo.cs
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\obj\Debug\net8.0\Aula_46_path.csproj.CoreCompileInputs.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\obj\Debug\net8.0\Aula_46_path.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\obj\Debug\net8.0\refint\Aula_46_path.dll
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\obj\Debug\net8.0\Aula_46_path.pdb
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\obj\Debug\net8.0\Aula_46_path.genruntimeconfig.cache
+C:\Arquivos Samuel\Cursos\C#\Curso C#\Aula_46_path\Aula_46_path\obj\Debug\net8.0\ref\Aula_46_path.dll
