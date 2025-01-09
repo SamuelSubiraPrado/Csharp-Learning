@@ -1,0 +1,7 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_29_Operacoes_Com_DateTime\Aula_29_Operacoes_Com_DateTime\bin\Debug\Aula_29_Operacoes_Com_DateTime.exe.config
+D:\Arquivos\Cursos\C#\Curso C#\Aula_29_Operacoes_Com_DateTime\Aula_29_Operacoes_Com_DateTime\bin\Debug\Aula_29_Operacoes_Com_DateTime.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_29_Operacoes_Com_DateTime\Aula_29_Operacoes_Com_DateTime\bin\Debug\Aula_29_Operacoes_Com_DateTime.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_29_Operacoes_Com_DateTime\Aula_29_Operacoes_Com_DateTime\obj\Debug\Aula_29_Operacoes_Com_DateTime.csproj.AssemblyReference.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_29_Operacoes_Com_DateTime\Aula_29_Operacoes_Com_DateTime\obj\Debug\Aula_29_Operacoes_Com_DateTime.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_29_Operacoes_Com_DateTime\Aula_29_Operacoes_Com_DateTime\obj\Debug\Aula_29_Operacoes_Com_DateTime.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_29_Operacoes_Com_DateTime\Aula_29_Operacoes_Com_DateTime\obj\Debug\Aula_29_Operacoes_Com_DateTime.pdb

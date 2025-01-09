@@ -1,0 +1,7 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_28_TimeSpan\Aula_28_TimeSpan\bin\Debug\Aula_28_TimeSpan.exe.config
+D:\Arquivos\Cursos\C#\Curso C#\Aula_28_TimeSpan\Aula_28_TimeSpan\bin\Debug\Aula_28_TimeSpan.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_28_TimeSpan\Aula_28_TimeSpan\bin\Debug\Aula_28_TimeSpan.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_28_TimeSpan\Aula_28_TimeSpan\obj\Debug\Aula_28_TimeSpan.csproj.AssemblyReference.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_28_TimeSpan\Aula_28_TimeSpan\obj\Debug\Aula_28_TimeSpan.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_28_TimeSpan\Aula_28_TimeSpan\obj\Debug\Aula_28_TimeSpan.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_28_TimeSpan\Aula_28_TimeSpan\obj\Debug\Aula_28_TimeSpan.pdb

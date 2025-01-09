@@ -1,0 +1,7 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_27_DateTime\Aula_27_DateTime\bin\Debug\Aula_27_DateTime.exe.config
+D:\Arquivos\Cursos\C#\Curso C#\Aula_27_DateTime\Aula_27_DateTime\bin\Debug\Aula_27_DateTime.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_27_DateTime\Aula_27_DateTime\bin\Debug\Aula_27_DateTime.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_27_DateTime\Aula_27_DateTime\obj\Debug\Aula_27_DateTime.csproj.AssemblyReference.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_27_DateTime\Aula_27_DateTime\obj\Debug\Aula_27_DateTime.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_27_DateTime\Aula_27_DateTime\obj\Debug\Aula_27_DateTime.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_27_DateTime\Aula_27_DateTime\obj\Debug\Aula_27_DateTime.pdb
