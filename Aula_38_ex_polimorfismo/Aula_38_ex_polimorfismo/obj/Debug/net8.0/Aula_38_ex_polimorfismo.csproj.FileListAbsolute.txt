@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\bin\Debug\net8.0\Aula_38_ex_polimorfismo.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\bin\Debug\net8.0\Aula_38_ex_polimorfismo.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\bin\Debug\net8.0\Aula_38_ex_polimorfismo.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\bin\Debug\net8.0\Aula_38_ex_polimorfismo.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\bin\Debug\net8.0\Aula_38_ex_polimorfismo.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\obj\Debug\net8.0\Aula_38_ex_polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\obj\Debug\net8.0\Aula_38_ex_polimorfismo.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\obj\Debug\net8.0\Aula_38_ex_polimorfismo.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\obj\Debug\net8.0\Aula_38_ex_polimorfismo.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\obj\Debug\net8.0\Aula_38_ex_polimorfismo.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\obj\Debug\net8.0\refint\Aula_38_ex_polimorfismo.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\obj\Debug\net8.0\Aula_38_ex_polimorfismo.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\obj\Debug\net8.0\Aula_38_ex_polimorfismo.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_38_ex_polimorfismo\Aula_38_ex_polimorfismo\obj\Debug\net8.0\ref\Aula_38_ex_polimorfismo.dll

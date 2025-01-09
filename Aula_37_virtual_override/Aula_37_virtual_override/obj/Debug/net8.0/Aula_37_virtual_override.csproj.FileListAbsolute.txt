@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\bin\Debug\net8.0\Aula_37_virtual_override.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\bin\Debug\net8.0\Aula_37_virtual_override.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\bin\Debug\net8.0\Aula_37_virtual_override.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\bin\Debug\net8.0\Aula_37_virtual_override.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\bin\Debug\net8.0\Aula_37_virtual_override.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\obj\Debug\net8.0\Aula_37_virtual_override.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\obj\Debug\net8.0\Aula_37_virtual_override.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\obj\Debug\net8.0\Aula_37_virtual_override.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\obj\Debug\net8.0\Aula_37_virtual_override.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\obj\Debug\net8.0\Aula_37_virtual_override.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\obj\Debug\net8.0\refint\Aula_37_virtual_override.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\obj\Debug\net8.0\Aula_37_virtual_override.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\obj\Debug\net8.0\Aula_37_virtual_override.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_37_virtual_override\Aula_37_virtual_override\obj\Debug\net8.0\ref\Aula_37_virtual_override.dll
