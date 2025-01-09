@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\bin\Debug\net6.0\Aula_4_while.exe
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\bin\Debug\net6.0\Aula_4_while.deps.json
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\bin\Debug\net6.0\Aula_4_while.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\bin\Debug\net6.0\Aula_4_while.dll
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\bin\Debug\net6.0\Aula_4_while.pdb
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\obj\Debug\net6.0\Aula_4_while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\obj\Debug\net6.0\Aula_4_while.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\obj\Debug\net6.0\Aula_4_while.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\obj\Debug\net6.0\Aula_4_while.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\obj\Debug\net6.0\Aula_4_while.dll
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\obj\Debug\net6.0\refint\Aula_4_while.dll
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\obj\Debug\net6.0\Aula_4_while.pdb
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\obj\Debug\net6.0\Aula_4_while.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Aula_5_while\Aula_5_while\obj\Debug\net6.0\ref\Aula_4_while.dll
