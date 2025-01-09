@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\bin\Debug\net8.0\aula_14_properties.exe
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\bin\Debug\net8.0\aula_14_properties.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\bin\Debug\net8.0\aula_14_properties.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\bin\Debug\net8.0\aula_14_properties.dll
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\bin\Debug\net8.0\aula_14_properties.pdb
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\obj\Debug\net8.0\aula_14_properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\obj\Debug\net8.0\aula_14_properties.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\obj\Debug\net8.0\aula_14_properties.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\obj\Debug\net8.0\aula_14_properties.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\obj\Debug\net8.0\aula_14_properties.dll
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\obj\Debug\net8.0\refint\aula_14_properties.dll
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\obj\Debug\net8.0\aula_14_properties.pdb
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\obj\Debug\net8.0\aula_14_properties.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\aula_14_properties\aula_14_properties\obj\Debug\net8.0\ref\aula_14_properties.dll

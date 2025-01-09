@@ -1,0 +1,4 @@
+D:\Arquivos\Cursos\C#\Curso C#\aula_15_auto_properties\aula_14_properties\obj\Debug\net8.0\aula_15_auto_properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\aula_15_auto_properties\aula_14_properties\obj\Debug\net8.0\aula_15_auto_properties.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\aula_15_auto_properties\aula_14_properties\obj\Debug\net8.0\aula_15_auto_properties.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\aula_15_auto_properties\aula_14_properties\obj\Debug\net8.0\aula_15_auto_properties.csproj.CoreCompileInputs.cache
