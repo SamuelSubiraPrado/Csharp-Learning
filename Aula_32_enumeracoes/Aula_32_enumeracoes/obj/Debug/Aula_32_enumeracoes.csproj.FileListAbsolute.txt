@@ -1,0 +1,7 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_32_enumeracoes\Aula_32_enumeracoes\obj\Debug\Aula_32_enumeracoes.csproj.AssemblyReference.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_32_enumeracoes\Aula_32_enumeracoes\obj\Debug\Aula_32_enumeracoes.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_32_enumeracoes\Aula_32_enumeracoes\bin\Debug\Aula_32_enumeracoes.exe.config
+D:\Arquivos\Cursos\C#\Curso C#\Aula_32_enumeracoes\Aula_32_enumeracoes\bin\Debug\Aula_32_enumeracoes.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_32_enumeracoes\Aula_32_enumeracoes\bin\Debug\Aula_32_enumeracoes.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_32_enumeracoes\Aula_32_enumeracoes\obj\Debug\Aula_32_enumeracoes.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_32_enumeracoes\Aula_32_enumeracoes\obj\Debug\Aula_32_enumeracoes.pdb

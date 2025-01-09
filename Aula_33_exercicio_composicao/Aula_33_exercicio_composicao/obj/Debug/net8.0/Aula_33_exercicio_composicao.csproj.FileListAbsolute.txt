@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\bin\Debug\net8.0\Aula_33_exercicio_composicao.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\bin\Debug\net8.0\Aula_33_exercicio_composicao.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\bin\Debug\net8.0\Aula_33_exercicio_composicao.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\bin\Debug\net8.0\Aula_33_exercicio_composicao.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\bin\Debug\net8.0\Aula_33_exercicio_composicao.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\obj\Debug\net8.0\Aula_33_exercicio_composicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\obj\Debug\net8.0\Aula_33_exercicio_composicao.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\obj\Debug\net8.0\Aula_33_exercicio_composicao.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\obj\Debug\net8.0\Aula_33_exercicio_composicao.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\obj\Debug\net8.0\Aula_33_exercicio_composicao.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\obj\Debug\net8.0\refint\Aula_33_exercicio_composicao.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\obj\Debug\net8.0\Aula_33_exercicio_composicao.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\obj\Debug\net8.0\Aula_33_exercicio_composicao.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_33_exercicio_composicao\Aula_33_exercicio_composicao\obj\Debug\net8.0\ref\Aula_33_exercicio_composicao.dll

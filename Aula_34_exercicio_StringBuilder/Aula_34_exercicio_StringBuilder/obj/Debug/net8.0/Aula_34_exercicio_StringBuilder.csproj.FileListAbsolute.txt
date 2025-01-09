@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\obj\Debug\net8.0\Aula_34_exercicio_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\obj\Debug\net8.0\Aula_34_exercicio_StringBuilder.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\obj\Debug\net8.0\Aula_34_exercicio_StringBuilder.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\obj\Debug\net8.0\Aula_34_exercicio_StringBuilder.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\bin\Debug\net8.0\Aula_34_exercicio_StringBuilder.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\bin\Debug\net8.0\Aula_34_exercicio_StringBuilder.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\bin\Debug\net8.0\Aula_34_exercicio_StringBuilder.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\bin\Debug\net8.0\Aula_34_exercicio_StringBuilder.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\bin\Debug\net8.0\Aula_34_exercicio_StringBuilder.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\obj\Debug\net8.0\Aula_34_exercicio_StringBuilder.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\obj\Debug\net8.0\refint\Aula_34_exercicio_StringBuilder.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\obj\Debug\net8.0\Aula_34_exercicio_StringBuilder.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\obj\Debug\net8.0\Aula_34_exercicio_StringBuilder.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_34_exercicio_StringBuilder\Aula_34_exercicio_StringBuilder\obj\Debug\net8.0\ref\Aula_34_exercicio_StringBuilder.dll
