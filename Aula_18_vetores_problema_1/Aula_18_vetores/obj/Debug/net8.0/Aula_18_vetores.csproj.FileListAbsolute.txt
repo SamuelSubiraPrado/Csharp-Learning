@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\obj\Debug\net8.0\Aula_18_vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\obj\Debug\net8.0\Aula_18_vetores.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\obj\Debug\net8.0\Aula_18_vetores.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\obj\Debug\net8.0\Aula_18_vetores.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\bin\Debug\net8.0\Aula_18_vetores.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\bin\Debug\net8.0\Aula_18_vetores.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\bin\Debug\net8.0\Aula_18_vetores.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\bin\Debug\net8.0\Aula_18_vetores.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\bin\Debug\net8.0\Aula_18_vetores.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\obj\Debug\net8.0\Aula_18_vetores.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\obj\Debug\net8.0\refint\Aula_18_vetores.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\obj\Debug\net8.0\Aula_18_vetores.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\obj\Debug\net8.0\Aula_18_vetores.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_18_vetores\Aula_18_vetores\obj\Debug\net8.0\ref\Aula_18_vetores.dll

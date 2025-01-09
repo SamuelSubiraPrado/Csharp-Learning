@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\bin\Debug\net8.0\Aula_16_tipo_ref_valor.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\bin\Debug\net8.0\Aula_16_tipo_ref_valor.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\bin\Debug\net8.0\Aula_16_tipo_ref_valor.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\bin\Debug\net8.0\Aula_16_tipo_ref_valor.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\bin\Debug\net8.0\Aula_16_tipo_ref_valor.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\obj\Debug\net8.0\Aula_16_tipo_ref_valor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\obj\Debug\net8.0\Aula_16_tipo_ref_valor.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\obj\Debug\net8.0\Aula_16_tipo_ref_valor.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\obj\Debug\net8.0\Aula_16_tipo_ref_valor.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\obj\Debug\net8.0\Aula_16_tipo_ref_valor.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\obj\Debug\net8.0\refint\Aula_16_tipo_ref_valor.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\obj\Debug\net8.0\Aula_16_tipo_ref_valor.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\obj\Debug\net8.0\Aula_16_tipo_ref_valor.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_16_tipo_ref_valor\Aula_16_tipo_ref_valor\obj\Debug\net8.0\ref\Aula_16_tipo_ref_valor.dll

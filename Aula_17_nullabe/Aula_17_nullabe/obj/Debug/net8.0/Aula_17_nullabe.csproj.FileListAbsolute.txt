@@ -1,0 +1,14 @@
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\bin\Debug\net8.0\Aula_17_nullabe.exe
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\bin\Debug\net8.0\Aula_17_nullabe.deps.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\bin\Debug\net8.0\Aula_17_nullabe.runtimeconfig.json
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\bin\Debug\net8.0\Aula_17_nullabe.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\bin\Debug\net8.0\Aula_17_nullabe.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\obj\Debug\net8.0\Aula_17_nullabe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\obj\Debug\net8.0\Aula_17_nullabe.AssemblyInfoInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\obj\Debug\net8.0\Aula_17_nullabe.AssemblyInfo.cs
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\obj\Debug\net8.0\Aula_17_nullabe.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\obj\Debug\net8.0\Aula_17_nullabe.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\obj\Debug\net8.0\refint\Aula_17_nullabe.dll
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\obj\Debug\net8.0\Aula_17_nullabe.pdb
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\obj\Debug\net8.0\Aula_17_nullabe.genruntimeconfig.cache
+D:\Arquivos\Cursos\C#\Curso C#\Aula_17_nullabe\Aula_17_nullabe\obj\Debug\net8.0\ref\Aula_17_nullabe.dll
